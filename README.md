@@ -28,7 +28,7 @@ HeliumIIDAO will manage digital and physical art, NFTs, swag, and event installa
 
 ChromosphereDAO will work alongside ColoradoJamDAO in collaboration with Jared Polis and his administration to create equitable policies around cryptocurrencies.
 
-## MOAR COOKS
+## MOAR cooks
 
-We'll have lots of kitchens, so we'll need lots of cooks. Please spread the word if this sounds like a community you'd like to play a role in. All spots are currently available. We are building from the absolute ground up. Eager to work alongside some passionate folks who are exctied about the Helium ecosystem!
+"I'm assembling a team..."<br><br>We'll have lots of kitchens, so we'll need lots of cooks. Please spread the word if this sounds like a community you'd like to play a role in. All spots are currently available. We are building from the absolute ground up. Eager to work alongside some passionate folks who are exctied about the Helium ecosystem!
 
