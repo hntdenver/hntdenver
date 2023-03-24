@@ -1,3 +1,0 @@
-# ChromosphereDAO
-
-<i>Placeholder</i>
