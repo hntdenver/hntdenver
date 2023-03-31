@@ -1,4 +1,4 @@
-# Roadmap
+# ToDo
 
 <b>LavaDAO Treasury-</b><i> HeliumDenver as been awarded a $500 event grant to help fund our efforts!</i><br>Create a community governance SPL token called Lava, <i>LVA</i>, which will be consist of 10,000 Kimberlites, <i>KBL</i>, to be burned for voting. 
 <br><br>
