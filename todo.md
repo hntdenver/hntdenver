@@ -6,6 +6,7 @@
 <br><br>
 <b>HOAP Dispenser-</b> Create SFT creator platform for other event spaces. Working in collaboration with Solanasoap, we intend to streamline the process for other Helium event's to create attendance tokens specifically for the Helium network, as well as provide an in depth walk through for deploying the Solanasoap portal locally including Shadowdrive / Bndlr storage and keypair generation and storage.
 <br><br>
+<b>Hacks NFTs-</b> Create NFTs that represent a specific sensor/hacks combination. Purchase of the NFT includes a specific sensor / any required hardware / in-person onboarding hacks session.<br><br>
 <b>Helium Wallet SFT integration-</b> Create a pull request for the Helium Wallet open source app that displays SFTs within the Helium wallet.
 <br><br>
 <b>Point-Of-Sale System-</b> Create a Point-of-Sale system to provide to storefronts around HeliumDenver events that allows users to pay for a product or service using SPL tokens, allowing the vendor to enter a total, generate a QR code, allowing the customer to complete the payment, and which converts those payments to USDC for the vendor. 
