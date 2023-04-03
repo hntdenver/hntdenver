@@ -15,4 +15,6 @@
 <br>
 <b>Hackathon-</b> Create a bounty platform that allows sponsors to lobby awards competed for by developers within the ecosystem.
 <br><br>
+<b>CBRS CPI Certification-</b> Develop a pop-up prototype that allows event deployers to deploy 5G radios to allow attendees to sample 5G/Mobile in real time, starting with HeliumDenver events.
+<br><br>
 <b>More to come...</b>
