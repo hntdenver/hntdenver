@@ -8,6 +8,9 @@ The fully realized vision is a recurring Helium ecosystem hackathon, usecase har
 
 HNTDenver will become an ecosystem epicenter where sponsors offer bounties based on the needs of the ecosystem, and builders can compete for these prizes. LoRa and 5G radios will be deployed on site allowing visitors to use the Helium network. Usecases can market their projects, hotspot owners can discuss deployment strategies, businesses can seek built-to-suit solutions, builders can collaborate and develop within the ecosystem. Live music, exclusive after parties, and more!<br><br>
 
+### hackathon 1.0 is live!
+Visit heliumdenver.com to learn more. We are accepting sponsors, seeking competitors, and planning our events officially! If you'd like to be a part please reach out. Builders can apply from around the world but must be in Denver July 7 to accept their prize. 
+
 ### LavaDAO
 
 LavaDAO is the governing structure over the HNTDenver ecosystem. <a href="https://www.sos.state.co.us/biz/BusinessEntityDetail.do?quitButtonDestination=BusinessEntityResults&nameTyp=ENT&masterFileId=20221323079&entityId2=20221323079&fileId=20221323079&srchTyp=ENTITY" target="_blank">A Colorado LCA</a> that is community owned and community governed. Ecosystem decisions proposed in Lava Improvement Proposals, or LIPs, and voted upon by burning incriments of the Lava Token, (LVA), which consists of 10,000 Kimberlites, (KBL). 
